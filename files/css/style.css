@@ -11,6 +11,7 @@ body .logo h3 {
 
 
 body {
+  #background-color: #545C6F;
   color: lime;
 }
 
@@ -29,10 +30,12 @@ body .slogan {
 
 
 body .topnav {
+  #border: solid lightgray 20px;
   border-radius: 25px;
   padding: 5px;
   margin-left: 15%;
   margin-right: 15%;
+  #background-color: darkgray;
   font-size: 12;
 }
 
@@ -62,19 +65,12 @@ body .main {
   border-radius: 25px;
   text-align: center;
   opacity: .75;
+  #color: lime;
 }
 
 
 body .main h2 {
   color: red;
-}
-
-
-.waiting_list_form input {
-  width: 250px;
-  height: 35px;
-  border-radius: 25px;
-  text-align: center;
 }
 
 
