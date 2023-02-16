@@ -7,6 +7,8 @@
   background: linear-gradient(180deg, rgba(2,0,36,1) 75%, rgba(16,26,173,1) 100%);
 }
 
+.address {
+  font-size: 15;
 
 .blink {
   animation: 2s linear infinite condemned_blink_effect;
