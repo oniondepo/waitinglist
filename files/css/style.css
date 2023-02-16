@@ -8,7 +8,7 @@
 }
 
 
-.blink {
+blink {
   animation: 2s linear infinite condemned_blink_effect;
   font-size: 15;
 }
