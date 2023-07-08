@@ -34,8 +34,7 @@ http://cnuiflerosm2uzh26tcuq5saapyto62nfajyhtqu37mwuzu2kyjbwrid.onion
 
  This project will be a fork of what's soon to be called OMCMS.
  Open Market Content Management System, that will be free and open source
- While offering a mimlistic platform for anyone interested is starting there own crypto based marketplace.
- OMCMS is Tor browser friendly.
+ While offering a platform thats transparent and open to new possibilities!
 
 
 ## License
