@@ -28,7 +28,7 @@ http://cnuiflerosm2uzh26tcuq5saapyto62nfajyhtqu37mwuzu2kyjbwrid.onion
 
 - Were Currently in Development
 
-- Expecting Beta by end of 2023
+- Expecting Beta mid 2024
 
 ### Whats the future of Oni0nD3p0
 
