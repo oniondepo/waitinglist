@@ -18,8 +18,17 @@
   background: linear-gradient(180deg, rgba(2,0,36,1) 100%, rgba(2,0,36,1) 100%);
 }
 
+.glow {
+  border-radius: 14px;
+  margin: 140px;
+  padding: 20px;
+  box-shadow: rgba(76, 147, 209, 0.8) 0 0 90px 33px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
 .address {
   font-size: 15;
+}
 
 .blink {
   animation: 2s linear infinite condemned_blink_effect;
