@@ -8,20 +8,23 @@ A revolutionary platform built for the people
 
 ## Who are we?
 
- We are a crypto foccussed marketplace thats full of potental with putting its users first there main priority!
- Join our waiting list today!
- Follow us on ticktock #oniondepo
+ We are a crypto foccussed marketplace , a revolutionary platform in the making, a global phenomenon of future development in the e-commerce world by the use of blockchain technology. 
+Join our waiting list today! 
+Follow us on ticktock #oniondepo
 
 ## Authors
 
 - anonilinux
 
+## Core Contributors
+
+- draicor
 
 ## Visiting the Project
 
-For more information please visit the address below
-http://cnuiflerosm2uzh26tcuq5saapyto62nfajyhtqu37mwuzu2kyjbwrid.onion
+For more information please visit the address below, you must use the tor browser.
 
+http://cnuiflerosm2uzh26tcuq5saapyto62nfajyhtqu37mwuzu2kyjbwrid.onion
 
 
 ## Roadmap
