@@ -1,6 +1,7 @@
 
 ![Logo](https://raw.githubusercontent.com/oniondepo/waitinglist/main/files/images/oniondepo_logo.gif)
 
+# This Repo is now an archive please visit our new location at https://oni0nd3p0.github.io/surface_website
 
 # Oni0nD3p0
 
